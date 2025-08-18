@@ -1,0 +1,19 @@
+{
+  "name": "note-book/ahmed-plugin",
+  "description": "plugin ex",
+  "type": "project",
+  "license": "GPL-2.0",
+  "autoload": {
+    "psr-4": {
+      "Inc\\": "./inc"
+    }
+  },
+  "authors": [
+    {
+      "name": "AhmedAshraf6",
+      "email": "ahmedp76b@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
